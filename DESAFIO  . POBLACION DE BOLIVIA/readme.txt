@@ -1,0 +1,2 @@
+link de la lagrange
+https://es.planetcalc.com/8692/?xy=2000%2087%2F10%0A2005%2091%2F10%0A2010%2048%2F5%0A2015%20101%2F10%0A2020%2011%0A2022%20113%2F10%0A2023%2023%2F2&showSteps=0&interpolate=2024&showBasis=1
